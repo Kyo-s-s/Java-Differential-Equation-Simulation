@@ -1,7 +1,5 @@
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
-import java.awt.Image;
 
 public class App extends JFrame {
     public static void main(String[] args) throws Exception {
